@@ -5,6 +5,7 @@ The idea of this project is to create a group of crawlers to scrape apartament w
 ## To-dos
 
 There are a few things that must be done:
+
 	Crawlers
 	Google Maps API
 	Database
@@ -35,6 +36,7 @@ Pretty simple crawler with selenium to look through the website and get data suc
     coordinates
 
 Websites crawled:
+
 	Zap imoveis (done!)
 	OLX
 
