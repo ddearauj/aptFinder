@@ -3,6 +3,10 @@
 ## To-dos
 
 Scrape websites
+	zap - DONE
+	olx
+
+
 	infos collected:
 		Price
 		Location (address, city, state)
@@ -21,6 +25,7 @@ Scrape websites
 		images
 		telephone number
 		coordinates
+
 
 database
 website
