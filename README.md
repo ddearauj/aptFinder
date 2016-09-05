@@ -57,5 +57,5 @@ Use the slack api in order to inform the user of a new apt that matches the pred
 
 ## Would be a great add but not a priority
 
-Get the image of the outside of the realty using google street view
-Keep track of the prices per neighbourhood to look for trends and etc. and compare the apt with the avg
+	Get the image of the outside of the realty using google street view
+	Keep track of the prices per neighbourhood to look for trends and etc. and compare the apt with the avg
